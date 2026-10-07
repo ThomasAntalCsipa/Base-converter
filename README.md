@@ -17,7 +17,7 @@ I also wanted to get better at designing a good user experience.
 
 ## How to use
 
-1. Download the files
+1. Download the .zip file
 
 2. Run the .exe file
 
