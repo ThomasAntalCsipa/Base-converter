@@ -21,6 +21,10 @@ I also wanted to get better at designing a good user experience.
 
 2. Run the .exe file
 
+## Todo
+
+* Improve the help command to explain better how to use the program with examples
+
 ## Tools
 
 I used pyinstaller to make the exe
